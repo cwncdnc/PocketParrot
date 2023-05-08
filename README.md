@@ -1,6 +1,6 @@
 # PocketParrot
 
-A.I.turns your Android into a pet.
+A.I.turns your Android into a talking robot.
 
 Developed entirely on Android, using ChatGPT.
 
